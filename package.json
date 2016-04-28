@@ -1,0 +1,14 @@
+{
+  "name": "simple-uptimerobot-loader",
+  "version": "0.1.0",
+  "description": "update uptimerobot monitor list via local file",
+  "main": "index.js",
+  "dependencies": {
+    "fs": "^0.0.2",
+    "util" : "^0.10.3",
+    "extend" : "^3.0.0",
+    "request": "^2.65.0"
+  },
+  "devDependencies": {},
+  "author": "Keith Bentrup"
+}
